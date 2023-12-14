@@ -1,1 +1,1 @@
-![Alt Text](Sway.jpg)
+![Alt Text](Sway-min.jpg)
