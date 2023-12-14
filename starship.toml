@@ -1,0 +1,23 @@
+[directory]
+truncation_length = 1
+
+[character]
+success_symbol = "[⟿](bold green) "
+error_symbol = "[⚠️](bold red) "
+
+[cmd_duration]
+min_time = 0
+disabled = true
+
+[rust]
+disabled = true
+
+[python]
+disabled = true
+
+[nodejs]
+disabled = true
+
+[package]
+disabled = true
+

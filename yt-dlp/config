@@ -1,0 +1,2 @@
+yt-dlp -f 'ba' -x --audio-format mp3  -o '%(title)s.%(ext)s'
+
